@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use these resources, please cite the source."
+authors:
+  - name: "Ilaria Digital School"
+title: "Full Stack Web Developer"
+url: "https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/"
+year: 2026
+license: LicenseRef-proprietary
