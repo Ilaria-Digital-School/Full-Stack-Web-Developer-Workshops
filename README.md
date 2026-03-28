@@ -8,3 +8,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 
 - [01. Guided workshop: identify components (editor, terminal, browser)](01-guided-workshop-identify-components-editor-terminal-browser/)
 - [02. Workshop: installing and first opening VS Code](02-workshop-installing-and-first-opening-vs-code/)
+- [03. Workshop: guided interface journey and key shortcuts](03-workshop-guided-interface-journey-and-key-shortcuts/)
