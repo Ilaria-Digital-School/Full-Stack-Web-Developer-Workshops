@@ -12,3 +12,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [04. Workshop: basic commands (cd, ls, mkdir, touch)](04-workshop-basic-commands-cd-ls-mkdir-touch/)
 - [05. Variation workshop: managing folders and files in a mini-project](05-variation-workshop-managing-folders-and-files-in-a-mini-project/)
 - [06. Workshop: inspecting an HTML page with DevTools](06-workshop-inspecting-an-html-page-with-devtools/)
+- [07. Workshop: create index.html and observe the changes live](07-workshop-create-index-html-and-observe-the-changes-live/)
