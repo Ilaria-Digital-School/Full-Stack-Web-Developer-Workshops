@@ -1,1 +1,0 @@
-# Guided workshop: identify components (editor, terminal, browser)

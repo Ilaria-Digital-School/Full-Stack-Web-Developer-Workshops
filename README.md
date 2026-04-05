@@ -6,10 +6,10 @@ Become a Full Stack Web Developer and master the development to create, manage a
 
 ## Workshops
 
-- [01. Guided workshop: identify components (editor, terminal, browser)](01-guided-workshop-identify-components-editor-terminal-browser/)
+- [01. Workshop: identify components (editor, terminal, browser)](01-workshop-identify-components-editor-terminal-browser/)
 - [02. Workshop: installing and first opening VS Code](02-workshop-installing-and-first-opening-vs-code/)
-- [03. Workshop: guided interface journey and key shortcuts](03-workshop-guided-interface-journey-and-key-shortcuts/)
+- [03. Workshop: interface journey and key shortcuts](03-workshop-interface-journey-and-key-shortcuts/)
 - [04. Workshop: basic commands (cd, ls, mkdir, touch)](04-workshop-basic-commands-cd-ls-mkdir-touch/)
-- [05. Variation workshop: managing folders and files in a mini-project](05-variation-workshop-managing-folders-and-files-in-a-mini-project/)
+- [05. Workshop: Managing folders and files in a mini-project](05-workshop-managing-folders-and-files-in-a-mini-project/)
 - [06. Workshop: inspecting an HTML page with DevTools](06-workshop-inspecting-an-html-page-with-devtools/)
 - [07. Workshop: create index.html and observe the changes live](07-workshop-create-index-html-and-observe-the-changes-live/)

@@ -12,11 +12,11 @@ Become a Full Stack Web Developer and master the development to create, manage a
 
 ## Workshops
 
-01. [Guided workshop: identify components (editor, terminal, browser)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/guided-workshop-identify-components-editor-terminal-browser)
+01. [Workshop: identify components (editor, terminal, browser)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/62c02292-d137-460a-8fd3-412d3837cffa/workshop-identify-components-editor-terminal-browser)
 02. [Workshop: installing and first opening VS Code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/bbd442ce-4d8c-4da5-9e9f-b4023728e7c9/workshop-installing-and-first-opening-vs-code)
-03. [Workshop: guided interface journey and key shortcuts](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/workshop-guided-interface-journey-and-key-shortcuts)
+03. [Workshop: interface journey and key shortcuts](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/84e915cd-1546-4bc0-a09f-47a0d2e82e50/workshop-interface-journey-and-key-shortcuts)
 04. [Workshop: basic commands (cd, ls, mkdir, touch)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/14a2b431-3bd9-4468-a565-c9e97e1a729d/workshop-basic-commands-cd-ls-mkdir-touch)
-05. [Variation workshop: managing folders and files in a mini-project](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/variation-workshop-managing-folders-and-files-in-a-mini-project)
+05. [Workshop: Managing folders and files in a mini-project](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/workshop-managing-folders-and-files-in-a-mini-project)
 06. [Workshop: inspecting an HTML page with DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/workshop-inspecting-an-html-page-with-devtools)
 07. [Workshop: create index.html and observe the changes live](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/workshop-create-index-html-and-observe-the-changes-live)
 
