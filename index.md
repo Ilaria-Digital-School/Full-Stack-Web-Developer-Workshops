@@ -19,4 +19,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 05. [Workshop: Managing folders and files in a mini-project](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/cc72df18-e53b-4bad-9a44-dd983c16ea44/workshop-managing-folders-and-files-in-a-mini-project)
 06. [Workshop: inspecting an HTML page with DevTools](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/18b1446f-7250-4a60-bd4a-973ffb7793cb/workshop-inspecting-an-html-page-with-devtools)
 07. [Workshop: create index.html and observe the changes live](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/a29a5386-a290-4d05-b7ee-b739afe91ea9/workshop-create-index-html-and-observe-the-changes-live)
+08. [Workshop: causing and reading an HTML/CSS error](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b7e07c2e-1735-42d3-9a14-adb849f0bb03/e6eb3111-733c-4509-9711-1a955819e819/workshop-causing-and-reading-an-html-css-error)
 

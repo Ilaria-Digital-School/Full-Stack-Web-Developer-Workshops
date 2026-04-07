@@ -13,3 +13,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [05. Workshop: Managing folders and files in a mini-project](05-workshop-managing-folders-and-files-in-a-mini-project/)
 - [06. Workshop: inspecting an HTML page with DevTools](06-workshop-inspecting-an-html-page-with-devtools/)
 - [07. Workshop: create index.html and observe the changes live](07-workshop-create-index-html-and-observe-the-changes-live/)
+- [08. Workshop: causing and reading an HTML/CSS error](08-workshop-causing-and-reading-an-html-css-error/)
