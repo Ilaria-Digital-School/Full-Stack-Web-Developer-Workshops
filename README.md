@@ -14,3 +14,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [06. Workshop: inspecting an HTML page with DevTools](06-workshop-inspecting-an-html-page-with-devtools/)
 - [07. Workshop: create index.html and observe the changes live](07-workshop-create-index-html-and-observe-the-changes-live/)
 - [08. Workshop: causing and reading an HTML/CSS error](08-workshop-causing-and-reading-an-html-css-error/)
+- [09. Workshop: breaking down the “ordering a pizza” problem](09-workshop-breaking-down-the-ordering-a-pizza-problem/)
