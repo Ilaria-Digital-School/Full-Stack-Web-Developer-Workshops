@@ -1,0 +1,2 @@
+<?php
+// Workshop: cleaning and commenting your code
