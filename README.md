@@ -33,3 +33,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [25. Workshop: cleaning and commenting your code](25-workshop-cleaning-and-commenting-your-code/)
 - [26. mini-project: creating your semantic resume](26-mini-project-creating-your-semantic-resume/)
 - [27. Workshop: add the list of skills in the resume](27-workshop-add-the-list-of-skills-in-the-resume/)
+- [28. Workshop: Nested lists](28-workshop-nested-lists/)
