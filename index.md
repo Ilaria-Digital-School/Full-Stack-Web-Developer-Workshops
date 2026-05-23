@@ -40,4 +40,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 26. [mini-project: creating your semantic resume](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/bf846b56-94ba-430e-828b-ea81f9539587/mini-project-creating-your-semantic-resume)
 27. [Workshop: add the list of skills in the resume](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/ad0a181a-5ae6-4455-9f7e-9b0a5fd7b726/workshop-add-the-list-of-skills-in-the-resume)
 28. [Workshop: Nested lists](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/1f95774b-c9b7-4dde-a7ab-7cb84577e647/workshop-nested-lists)
+29. [Workshop: creating internal navigation with anchors](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/7bcd8b98-22da-4bf0-892c-53debc0a2ed0/workshop-creating-internal-navigation-with-anchors)
 
