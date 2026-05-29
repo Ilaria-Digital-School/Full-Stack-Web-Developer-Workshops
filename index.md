@@ -43,4 +43,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 29. [Workshop: creating internal navigation with anchors](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/7bcd8b98-22da-4bf0-892c-53debc0a2ed0/workshop-creating-internal-navigation-with-anchors)
 30. [Workshop: list of external resources (target and rel)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/20412962-0634-4e8c-b271-a09ba5445f30/workshop-list-of-external-resources-target-and-rel)
 31. [Workshop: insert a profile photo with caption](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/ff7181a5-ccc5-4244-b810-5e8d93634e4a/workshop-insert-a-profile-photo-with-caption)
+32. [Workshop: creating a semantic image gallery](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/89a67729-7fda-4516-8450-a768fa65177a/workshop-creating-a-semantic-image-gallery)
 
