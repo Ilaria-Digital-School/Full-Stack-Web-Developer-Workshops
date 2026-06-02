@@ -1,0 +1,2 @@
+<?php
+// Workshop: enrich the blog post with inline tags

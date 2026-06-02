@@ -38,3 +38,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [30. Workshop: list of external resources (target and rel)](30-workshop-list-of-external-resources-target-and-rel/)
 - [31. Workshop: insert a profile photo with caption](31-workshop-insert-a-profile-photo-with-caption/)
 - [32. Workshop: creating a semantic image gallery](32-workshop-creating-a-semantic-image-gallery/)
+- [33. Workshop: enrich the blog post with inline tags](33-workshop-enrich-the-blog-post-with-inline-tags/)
