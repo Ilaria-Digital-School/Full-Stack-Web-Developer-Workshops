@@ -45,4 +45,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 31. [Workshop: insert a profile photo with caption](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/ff7181a5-ccc5-4244-b810-5e8d93634e4a/workshop-insert-a-profile-photo-with-caption)
 32. [Workshop: creating a semantic image gallery](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/89a67729-7fda-4516-8450-a768fa65177a/workshop-creating-a-semantic-image-gallery)
 33. [Workshop: enrich the blog post with inline tags](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/8a78126b-9dd1-4a3b-98b1-4031085301bf/workshop-enrich-the-blog-post-with-inline-tags)
+34. [Workshop: Use time, code and abbr correctly](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/workshop-use-time-code-and-abbr-correctly)
 
