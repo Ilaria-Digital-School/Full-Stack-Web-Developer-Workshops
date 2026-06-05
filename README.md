@@ -40,3 +40,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [32. Workshop: creating a semantic image gallery](32-workshop-creating-a-semantic-image-gallery/)
 - [33. Workshop: enrich the blog post with inline tags](33-workshop-enrich-the-blog-post-with-inline-tags/)
 - [34. Workshop: Use time, code and abbr correctly](34-workshop-use-time-code-and-abbr-correctly/)
+- [35. Workshop: building a weekly schedule](35-workshop-building-a-weekly-schedule/)
