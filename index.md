@@ -47,4 +47,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 33. [Workshop: enrich the blog post with inline tags](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/8a78126b-9dd1-4a3b-98b1-4031085301bf/workshop-enrich-the-blog-post-with-inline-tags)
 34. [Workshop: Use time, code and abbr correctly](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/workshop-use-time-code-and-abbr-correctly)
 35. [Workshop: building a weekly schedule](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/workshop-building-a-weekly-schedule)
+36. [Workshop: making a table accessible (scope, summary)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/workshop-making-a-table-accessible-scope-summary)
 
