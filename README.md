@@ -42,3 +42,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [34. Workshop: Use time, code and abbr correctly](34-workshop-use-time-code-and-abbr-correctly/)
 - [35. Workshop: building a weekly schedule](35-workshop-building-a-weekly-schedule/)
 - [36. Workshop: making a table accessible (scope, summary)](36-workshop-making-a-table-accessible-scope-summary/)
+- [37. Final mini-project: fully semantic multi-page portfolio](37-final-mini-project-fully-semantic-multi-page-portfolio/)

@@ -48,4 +48,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 34. [Workshop: Use time, code and abbr correctly](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/98850571-ba5b-4006-aa92-e08c97e6d85c/workshop-use-time-code-and-abbr-correctly)
 35. [Workshop: building a weekly schedule](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/d9ab3773-245d-4075-a792-54e5dfe04d5d/workshop-building-a-weekly-schedule)
 36. [Workshop: making a table accessible (scope, summary)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/2f52619d-d395-4d47-bcbc-38bba76a14a6/workshop-making-a-table-accessible-scope-summary)
+37. [Final mini-project: fully semantic multi-page portfolio](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/27ff0726-3de4-4616-b0be-d9a166415d04/d9ee0810-f9b9-48b4-9c5e-2fd60e685c20/final-mini-project-fully-semantic-multi-page-portfolio)
 
