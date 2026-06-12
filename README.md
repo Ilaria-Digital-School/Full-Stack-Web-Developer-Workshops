@@ -43,3 +43,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [35. Workshop: building a weekly schedule](35-workshop-building-a-weekly-schedule/)
 - [36. Workshop: making a table accessible (scope, summary)](36-workshop-making-a-table-accessible-scope-summary/)
 - [37. Final mini-project: fully semantic multi-page portfolio](37-final-mini-project-fully-semantic-multi-page-portfolio/)
+- [38. observation: inspecting a non-responsive site](38-observation-inspecting-a-non-responsive-site/)
