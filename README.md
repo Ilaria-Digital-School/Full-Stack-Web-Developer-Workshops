@@ -44,3 +44,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [36. Workshop: making a table accessible (scope, summary)](36-workshop-making-a-table-accessible-scope-summary/)
 - [37. Final mini-project: fully semantic multi-page portfolio](37-final-mini-project-fully-semantic-multi-page-portfolio/)
 - [38. observation: inspecting a non-responsive site](38-observation-inspecting-a-non-responsive-site/)
+- [39. Workshop: first media query to change the background color](39-workshop-first-media-query-to-change-the-background-color/)
