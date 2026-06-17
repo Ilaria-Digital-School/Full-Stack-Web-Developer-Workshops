@@ -45,3 +45,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [37. Final mini-project: fully semantic multi-page portfolio](37-final-mini-project-fully-semantic-multi-page-portfolio/)
 - [38. observation: inspecting a non-responsive site](38-observation-inspecting-a-non-responsive-site/)
 - [39. Workshop: first media query to change the background color](39-workshop-first-media-query-to-change-the-background-color/)
+- [40. Workshop: Adapt the font size according to the width of the screen](40-workshop-adapt-the-font-size-according-to-the-width-of-the-screen/)
