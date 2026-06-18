@@ -46,3 +46,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [38. observation: inspecting a non-responsive site](38-observation-inspecting-a-non-responsive-site/)
 - [39. Workshop: first media query to change the background color](39-workshop-first-media-query-to-change-the-background-color/)
 - [40. Workshop: Adapt the font size according to the width of the screen](40-workshop-adapt-the-font-size-according-to-the-width-of-the-screen/)
+- [41. Workshop: converting a design into rem and vw](41-workshop-converting-a-design-into-rem-and-vw/)
