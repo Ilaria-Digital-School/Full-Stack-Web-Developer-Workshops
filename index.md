@@ -53,4 +53,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 39. [Workshop: first media query to change the background color](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/db219be5-9917-48f1-b8a3-5354a7619a10/workshop-first-media-query-to-change-the-background-color)
 40. [Workshop: Adapt the font size according to the width of the screen](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6ad10ae-db27-4146-b65f-a664d850fe05/workshop-adapt-the-font-size-according-to-the-width-of-the-screen)
 41. [Workshop: converting a design into rem and vw](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/ff2e3346-b9f1-4765-a54d-074dd8306822/workshop-converting-a-design-into-rem-and-vw)
+42. [Workshop: basic alignment with Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/workshop-basic-alignment-with-flexbox)
 
