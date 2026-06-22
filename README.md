@@ -6,15 +6,15 @@ Become a Full Stack Web Developer and master the development to create, manage a
 
 ## Workshops
 
-- [01. Workshop: identify components (editor, terminal, browser)](01-workshop-identify-components-editor-terminal-browser/)
+- [01. Guided workshop: identify components (editor, terminal, browser)](01-guided-workshop-identify-components-editor-terminal-browser/)
 - [02. Workshop: installing and first opening VS Code](02-workshop-installing-and-first-opening-vs-code/)
-- [03. Workshop: interface journey and key shortcuts](03-workshop-interface-journey-and-key-shortcuts/)
+- [03. Workshop: guided interface journey and key shortcuts](03-workshop-guided-interface-journey-and-key-shortcuts/)
 - [04. Workshop: basic commands (cd, ls, mkdir, touch)](04-workshop-basic-commands-cd-ls-mkdir-touch/)
-- [05. Workshop: Managing folders and files in a mini-project](05-workshop-managing-folders-and-files-in-a-mini-project/)
+- [05. Variation workshop: managing folders and files in a mini-project](05-variation-workshop-managing-folders-and-files-in-a-mini-project/)
 - [06. Workshop: inspecting an HTML page with DevTools](06-workshop-inspecting-an-html-page-with-devtools/)
 - [07. Workshop: create index.html and observe the changes live](07-workshop-create-index-html-and-observe-the-changes-live/)
 - [08. Workshop: causing and reading an HTML/CSS error](08-workshop-causing-and-reading-an-html-css-error/)
-- [09. Workshop: breaking down the “ordering a pizza” problem](09-workshop-breaking-down-the-ordering-a-pizza-problem/)
+- [09. Workshop: breaking down the "ordering a pizza" problem](09-workshop-breaking-down-the-ordering-a-pizza-problem/)
 - [10. Lab: installing Git and setting up user.name/user.email](10-lab-installing-git-and-setting-up-user-name-user-email/)
 - [11. Workshop: create a local repository and make a first commit](11-workshop-create-a-local-repository-and-make-a-first-commit/)
 - [12. Workshop: writing meaningful commits](12-workshop-writing-meaningful-commits/)

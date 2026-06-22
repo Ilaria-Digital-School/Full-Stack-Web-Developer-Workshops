@@ -1,1 +1,0 @@
-// Workshop: Managing folders and files in a mini-project
