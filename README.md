@@ -48,3 +48,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [40. Workshop: Adapt the font size according to the width of the screen](40-workshop-adapt-the-font-size-according-to-the-width-of-the-screen/)
 - [41. Workshop: converting a design into rem and vw](41-workshop-converting-a-design-into-rem-and-vw/)
 - [42. Workshop: basic alignment with Flexbox](42-workshop-basic-alignment-with-flexbox/)
+- [43. Workshop: creating a flexible navigation bar](43-workshop-creating-a-flexible-navigation-bar/)
+- [44. Workshop: Reversal of the order of elements with flex-direction](44-workshop-reversal-of-the-order-of-elements-with-flex-direction/)

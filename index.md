@@ -54,4 +54,6 @@ Become a Full Stack Web Developer and master the development to create, manage a
 40. [Workshop: Adapt the font size according to the width of the screen](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6ad10ae-db27-4146-b65f-a664d850fe05/workshop-adapt-the-font-size-according-to-the-width-of-the-screen)
 41. [Workshop: converting a design into rem and vw](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/ff2e3346-b9f1-4765-a54d-074dd8306822/workshop-converting-a-design-into-rem-and-vw)
 42. [Workshop: basic alignment with Flexbox](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e202efc8-4c48-46ab-9f1c-d979ee7e6d42/workshop-basic-alignment-with-flexbox)
+43. [Workshop: creating a flexible navigation bar](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/6f0e845b-be8d-4756-8179-5c7295e86e10/workshop-creating-a-flexible-navigation-bar)
+44. [Workshop: Reversal of the order of elements with flex-direction](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/workshop-reversal-of-the-order-of-elements-with-flex-direction)
 
