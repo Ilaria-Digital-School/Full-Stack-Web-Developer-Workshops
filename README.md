@@ -51,3 +51,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [43. Workshop: creating a flexible navigation bar](43-workshop-creating-a-flexible-navigation-bar/)
 - [44. Workshop: Reversal of the order of elements with flex-direction](44-workshop-reversal-of-the-order-of-elements-with-flex-direction/)
 - [45. Workshop: responsive image gallery with flex-wrap](45-workshop-responsive-image-gallery-with-flex-wrap/)
+- [46. Workshop: adaptive "About" section](46-workshop-adaptive-about-section/)
