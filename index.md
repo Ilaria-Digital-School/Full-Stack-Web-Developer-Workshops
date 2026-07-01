@@ -58,4 +58,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 44. [Workshop: Reversal of the order of elements with flex-direction](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/8b96e152-afb4-4276-aeb4-dda347635016/workshop-reversal-of-the-order-of-elements-with-flex-direction)
 45. [Workshop: responsive image gallery with flex-wrap](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/2f3a1d97-1b09-4b57-a18a-33c253c330e8/workshop-responsive-image-gallery-with-flex-wrap)
 46. [Workshop: adaptive "About" section](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/cb577b24-e24e-4d0a-b975-a47fdbabd9d4/workshop-adaptive-about-section)
+47. [Workshop: basic grid with 2 columns and 3 rows](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/657fe1c7-bc86-47b3-a7bf-43a92ac86ad9/workshop-basic-grid-with-2-columns-and-3-rows)
 
