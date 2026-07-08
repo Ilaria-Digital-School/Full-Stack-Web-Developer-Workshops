@@ -55,3 +55,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [47. Workshop: basic grid with 2 columns and 3 rows](47-workshop-basic-grid-with-2-columns-and-3-rows/)
 - [48. Workshop: Fluid grid with repeat (auto-fit, minmax)](48-workshop-fluid-grid-with-repeat-auto-fit-minmax/)
 - [49. Workshop: blog layout (sidebar + content)](49-workshop-blog-layout-sidebar-content/)
+- [50. Workshop: go from 4 columns to 1 column depending on the screen size](50-workshop-go-from-4-columns-to-1-column-depending-on-the-screen-size/)
