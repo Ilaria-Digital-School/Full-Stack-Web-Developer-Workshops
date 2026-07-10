@@ -63,4 +63,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 49. [Workshop: blog layout (sidebar + content)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/59f5ac5e-9824-4900-a9b7-ff057182f5b3/workshop-blog-layout-sidebar-content)
 50. [Workshop: go from 4 columns to 1 column depending on the screen size](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/e37bdacc-54f7-4f46-a9eb-a2239979b513/workshop-go-from-4-columns-to-1-column-depending-on-the-screen-size)
 51. [Intermediate mini-project: responsive portfolio home page](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/76dec767-012a-43c1-a4fb-79ca66dbe1b0/intermediate-mini-project-responsive-portfolio-home-page)
+52. [Workshop: refactoring an existing page mobile-first](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/b85a036b-a80c-48a8-9e59-fbc31718c473/workshop-refactoring-an-existing-page-mobile-first)
 

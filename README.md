@@ -57,3 +57,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [49. Workshop: blog layout (sidebar + content)](49-workshop-blog-layout-sidebar-content/)
 - [50. Workshop: go from 4 columns to 1 column depending on the screen size](50-workshop-go-from-4-columns-to-1-column-depending-on-the-screen-size/)
 - [51. Intermediate mini-project: responsive portfolio home page](51-intermediate-mini-project-responsive-portfolio-home-page/)
+- [52. Workshop: refactoring an existing page mobile-first](52-workshop-refactoring-an-existing-page-mobile-first/)
