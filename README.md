@@ -59,3 +59,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [51. Intermediate mini-project: responsive portfolio home page](51-intermediate-mini-project-responsive-portfolio-home-page/)
 - [52. Workshop: refactoring an existing page mobile-first](52-workshop-refactoring-an-existing-page-mobile-first/)
 - [53. Workshop: making a form both responsive and accessible](53-workshop-making-a-form-both-responsive-and-accessible/)
+- [54. Workshop: implementing a powerful adaptive image set](54-workshop-implementing-a-powerful-adaptive-image-set/)
