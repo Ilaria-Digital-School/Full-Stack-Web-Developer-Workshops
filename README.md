@@ -60,3 +60,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [52. Workshop: refactoring an existing page mobile-first](52-workshop-refactoring-an-existing-page-mobile-first/)
 - [53. Workshop: making a form both responsive and accessible](53-workshop-making-a-form-both-responsive-and-accessible/)
 - [54. Workshop: implementing a powerful adaptive image set](54-workshop-implementing-a-powerful-adaptive-image-set/)
+- [55. Final chapter project: multi-breakpoint adaptive dashboard](55-final-chapter-project-multi-breakpoint-adaptive-dashboard/)
