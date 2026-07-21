@@ -68,4 +68,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 54. [Workshop: implementing a powerful adaptive image set](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/916ed178-4510-48e7-aa2d-6d890f4185a3/workshop-implementing-a-powerful-adaptive-image-set)
 55. [Final chapter project: multi-breakpoint adaptive dashboard](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/90f2ad78-af9d-410d-8d48-0577ff5aec14/final-chapter-project-multi-breakpoint-adaptive-dashboard)
 56. [Collaborative debriefing: responsive code review](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/b5c8d528-073f-4bf5-a2fe-f33bf0e6b412/a6a654be-2e76-4d8d-96ac-38dbbfb6106a/collaborative-debriefing-responsive-code-review)
+57. [Transform a cooking recipe into a pseudo-code](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/fad384cb-d236-4ba8-a049-66c49a1c8846/transform-a-cooking-recipe-into-a-pseudo-code)
 

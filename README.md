@@ -62,3 +62,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [54. Workshop: implementing a powerful adaptive image set](54-workshop-implementing-a-powerful-adaptive-image-set/)
 - [55. Final chapter project: multi-breakpoint adaptive dashboard](55-final-chapter-project-multi-breakpoint-adaptive-dashboard/)
 - [56. Collaborative debriefing: responsive code review](56-collaborative-debriefing-responsive-code-review/)
+- [57. Transform a cooking recipe into a pseudo-code](57-transform-a-cooking-recipe-into-a-pseudo-code/)
