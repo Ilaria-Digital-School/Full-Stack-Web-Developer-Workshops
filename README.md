@@ -63,3 +63,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [55. Final chapter project: multi-breakpoint adaptive dashboard](55-final-chapter-project-multi-breakpoint-adaptive-dashboard/)
 - [56. Collaborative debriefing: responsive code review](56-collaborative-debriefing-responsive-code-review/)
 - [57. Transform a cooking recipe into a pseudo-code](57-transform-a-cooking-recipe-into-a-pseudo-code/)
+- [58. Pseudo-code for a daily commute](58-pseudo-code-for-a-daily-commute/)
