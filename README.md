@@ -64,3 +64,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [56. Collaborative debriefing: responsive code review](56-collaborative-debriefing-responsive-code-review/)
 - [57. Transform a cooking recipe into a pseudo-code](57-transform-a-cooking-recipe-into-a-pseudo-code/)
 - [58. Pseudo-code for a daily commute](58-pseudo-code-for-a-daily-commute/)
+- [59. Draw a simple organization chart](59-draw-a-simple-organization-chart/)
