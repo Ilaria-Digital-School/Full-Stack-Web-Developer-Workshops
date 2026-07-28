@@ -66,3 +66,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [58. Pseudo-code for a daily commute](58-pseudo-code-for-a-daily-commute/)
 - [59. Draw a simple organization chart](59-draw-a-simple-organization-chart/)
 - [60. Rewrite a messy algorithm](60-rewrite-a-messy-algorithm/)
+- [61. Mini-checkpoint - Make a coffee](61-mini-checkpoint-make-a-coffee/)
