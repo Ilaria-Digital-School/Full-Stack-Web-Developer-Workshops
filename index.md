@@ -73,4 +73,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 59. [Draw a simple organization chart](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/41441869-8bd0-41cc-87eb-5d572d011bb0/draw-a-simple-organization-chart)
 60. [Rewrite a messy algorithm](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/b4c4eb85-30af-4f08-b6a5-51b71b79e353/rewrite-a-messy-algorithm)
 61. [Mini-checkpoint - Make a coffee](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/26aca322-11af-4cf9-b072-ac24cf605f18/mini-checkpoint-make-a-coffee)
+62. [Declare and assign variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/60f17f64-30b3-4fa0-95ad-bf5330a0a6ab/declare-and-assign-variables)
 
