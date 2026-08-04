@@ -76,4 +76,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 62. [Declare and assign variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/60f17f64-30b3-4fa0-95ad-bf5330a0a6ab/declare-and-assign-variables)
 63. [Exchange two values](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/33abcd38-d254-4668-b542-9bcf70210045/exchange-two-values)
 64. [Simple calculations with variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ae26dcfb-ef66-4726-86f5-90ea30ef5b39/simple-calculations-with-variables)
+65. [mini-project - BMI calculation](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/f4820f10-5457-4d7a-8f77-8354325c6f19/mini-project-bmi-calculation)
 

@@ -70,3 +70,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [62. Declare and assign variables](62-declare-and-assign-variables/)
 - [63. Exchange two values](63-exchange-two-values/)
 - [64. Simple calculations with variables](64-simple-calculations-with-variables/)
+- [65. mini-project - BMI calculation](65-mini-project-bmi-calculation/)
