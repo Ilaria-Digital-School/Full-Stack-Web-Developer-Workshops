@@ -78,4 +78,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 64. [Simple calculations with variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ae26dcfb-ef66-4726-86f5-90ea30ef5b39/simple-calculations-with-variables)
 65. [mini-project - BMI calculation](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/f4820f10-5457-4d7a-8f77-8354325c6f19/mini-project-bmi-calculation)
 66. [Checkpoint ramp - Simple shopping cart management](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/64be89fa-f7f8-4824-b02d-7385bc723267/checkpoint-ramp-simple-shopping-cart-management)
+67. [Writing a simple IF test](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/0fc71233-db73-440a-8d17-847e660caf1e/writing-a-simple-if-test)
 
