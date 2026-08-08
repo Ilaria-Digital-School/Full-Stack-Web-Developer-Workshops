@@ -73,3 +73,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [65. mini-project - BMI calculation](65-mini-project-bmi-calculation/)
 - [66. Checkpoint ramp - Simple shopping cart management](66-checkpoint-ramp-simple-shopping-cart-management/)
 - [67. Writing a simple IF test](67-writing-a-simple-if-test/)
+- [68. Reduced price choice](68-reduced-price-choice/)
