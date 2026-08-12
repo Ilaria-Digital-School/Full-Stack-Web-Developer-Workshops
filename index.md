@@ -81,4 +81,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 67. [Writing a simple IF test](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/0fc71233-db73-440a-8d17-847e660caf1e/writing-a-simple-if-test)
 68. [Reduced price choice](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/37136080-22d9-4df0-a660-7624491ee4a0/reduced-price-choice)
 69. [Mini-project - Calculating the price of a train ticket](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/ec675721-96d5-49e9-bf63-8d3815de4c0b/mini-project-calculating-the-price-of-a-train-ticket)
+70. [While - Count from 1 to N](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/77c53658-ac24-4173-bb82-01838835eb5b/while-count-from-1-to-n)
 
