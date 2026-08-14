@@ -76,3 +76,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [68. Reduced price choice](68-reduced-price-choice/)
 - [69. Mini-project - Calculating the price of a train ticket](69-mini-project-calculating-the-price-of-a-train-ticket/)
 - [70. While - Count from 1 to N](70-while-count-from-1-to-n/)
+- [71. For - Calculate a factorial](71-for-calculate-a-factorial/)
