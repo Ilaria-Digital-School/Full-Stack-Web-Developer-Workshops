@@ -79,3 +79,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [71. For - Calculate a factorial](71-for-calculate-a-factorial/)
 - [72. Multiplication table](72-multiplication-table/)
 - [73. Create a sum function](73-create-a-sum-function/)
+- [74. Refactor Factorial based](74-refactor-factorial-based/)
