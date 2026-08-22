@@ -80,3 +80,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [72. Multiplication table](72-multiplication-table/)
 - [73. Create a sum function](73-create-a-sum-function/)
 - [74. Refactor Factorial based](74-refactor-factorial-based/)
+- [75. Browse a list and view items](75-browse-a-list-and-view-items/)
