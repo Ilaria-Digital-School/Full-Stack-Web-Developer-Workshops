@@ -81,3 +81,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [73. Create a sum function](73-create-a-sum-function/)
 - [74. Refactor Factorial based](74-refactor-factorial-based/)
 - [75. Browse a list and view items](75-browse-a-list-and-view-items/)
+- [76. Find the minimum in a list](76-find-the-minimum-in-a-list/)
+- [77. Cash register - summary of concepts](77-cash-register-summary-of-concepts/)
