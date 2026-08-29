@@ -84,3 +84,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [76. Find the minimum in a list](76-find-the-minimum-in-a-list/)
 - [77. Cash register - summary of concepts](77-cash-register-summary-of-concepts/)
 - [78. Workshop: declaring and displaying variables](78-workshop-declaring-and-displaying-variables/)
+- [79. Workshop: Simple type conversions](79-workshop-simple-type-conversions/)

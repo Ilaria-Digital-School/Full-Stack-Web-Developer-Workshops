@@ -90,4 +90,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 76. [Find the minimum in a list](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/d2729b04-1729-49ba-bf0d-8e643754054f/find-the-minimum-in-a-list)
 77. [Cash register - summary of concepts](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/17631b59-d378-49cb-b46d-999ec9e919dd/cash-register-summary-of-concepts)
 78. [Workshop: declaring and displaying variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/4e74017c-2e13-4377-96f3-bd0e19698860/workshop-declaring-and-displaying-variables)
+79. [Workshop: Simple type conversions](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/3f67b61d-1630-4d1d-ad19-86d51e74376d/workshop-simple-type-conversions)
 
