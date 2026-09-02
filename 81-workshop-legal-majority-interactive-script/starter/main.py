@@ -1,0 +1,1 @@
+# Workshop: legal majority — interactive script

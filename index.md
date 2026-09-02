@@ -92,4 +92,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 78. [Workshop: declaring and displaying variables](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/4e74017c-2e13-4377-96f3-bd0e19698860/workshop-declaring-and-displaying-variables)
 79. [Workshop: Simple type conversions](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/3f67b61d-1630-4d1d-ad19-86d51e74376d/workshop-simple-type-conversions)
 80. [Workshop: mini calculator in console](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/cc80bfd0-a449-4022-81d0-6f77f396e978/workshop-mini-calculator-in-console)
+81. [Workshop: legal majority — interactive script](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2dd14a2b-8969-4d28-8c00-c02c7282b1e0/workshop-legal-majority-interactive-script)
 
