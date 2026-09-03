@@ -87,3 +87,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [79. Workshop: Simple type conversions](79-workshop-simple-type-conversions/)
 - [80. Workshop: mini calculator in console](80-workshop-mini-calculator-in-console/)
 - [81. Workshop: legal majority — interactive script](81-workshop-legal-majority-interactive-script/)
+- [82. Workshop: Even or odd?](82-workshop-even-or-odd/)
