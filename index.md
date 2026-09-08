@@ -95,4 +95,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 81. [Workshop: legal majority — interactive script](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2dd14a2b-8969-4d28-8c00-c02c7282b1e0/workshop-legal-majority-interactive-script)
 82. [Workshop: Even or odd?](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/70a63e22-04f5-44c6-abae-5c624582733a/workshop-even-or-odd)
 83. [Workshop: personalized greeting function](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/e0eed685-f476-4d04-8190-e31f9f77aa71/workshop-personalized-greeting-function)
+84. [Workshop: refactored calculator with functions](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/ca9fea59-728e-4906-b89c-d27da6e84e96/workshop-refactored-calculator-with-functions)
 
