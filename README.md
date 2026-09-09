@@ -90,3 +90,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [82. Workshop: Even or odd?](82-workshop-even-or-odd/)
 - [83. Workshop: personalized greeting function](83-workshop-personalized-greeting-function/)
 - [84. Workshop: refactored calculator with functions](84-workshop-refactored-calculator-with-functions/)
+- [85. Workshop: Click counter (prompt)](85-workshop-click-counter-prompt/)
