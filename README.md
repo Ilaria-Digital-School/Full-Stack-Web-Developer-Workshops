@@ -91,3 +91,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [83. Workshop: personalized greeting function](83-workshop-personalized-greeting-function/)
 - [84. Workshop: refactored calculator with functions](84-workshop-refactored-calculator-with-functions/)
 - [85. Workshop: Click counter (prompt)](85-workshop-click-counter-prompt/)
+- [86. Workshop: alert button with event handler](86-workshop-alert-button-with-event-handler/)
