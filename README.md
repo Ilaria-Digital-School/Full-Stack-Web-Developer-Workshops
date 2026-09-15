@@ -92,3 +92,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [84. Workshop: refactored calculator with functions](84-workshop-refactored-calculator-with-functions/)
 - [85. Workshop: Click counter (prompt)](85-workshop-click-counter-prompt/)
 - [86. Workshop: alert button with event handler](86-workshop-alert-button-with-event-handler/)
+- [87. Workshop: managing a task list in a console](87-workshop-managing-a-task-list-in-a-console/)
