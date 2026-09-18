@@ -100,4 +100,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 86. [Workshop: alert button with event handler](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/982342dd-399c-40ed-8f1f-95225d63d12f/workshop-alert-button-with-event-handler)
 87. [Workshop: managing a task list in a console](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/da2c9f49-75d6-4d3f-9130-e822b59de657/workshop-managing-a-task-list-in-a-console)
 88. [Workshop: student grade statistics](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/015fd53d-6123-4957-808d-4eec6ed587c9/workshop-student-grade-statistics)
+89. [Workshop: filtering and transforming a list of products](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/6487de24-d839-4de2-a037-84f01385e8a4/workshop-filtering-and-transforming-a-list-of-products)
 
