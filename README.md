@@ -95,3 +95,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [87. Workshop: managing a task list in a console](87-workshop-managing-a-task-list-in-a-console/)
 - [88. Workshop: student grade statistics](88-workshop-student-grade-statistics/)
 - [89. Workshop: filtering and transforming a list of products](89-workshop-filtering-and-transforming-a-list-of-products/)
+- [90. Workshop: user object and presentation method](90-workshop-user-object-and-presentation-method/)
