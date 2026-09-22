@@ -102,4 +102,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 88. [Workshop: student grade statistics](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/015fd53d-6123-4957-808d-4eec6ed587c9/workshop-student-grade-statistics)
 89. [Workshop: filtering and transforming a list of products](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/6487de24-d839-4de2-a037-84f01385e8a4/workshop-filtering-and-transforming-a-list-of-products)
 90. [Workshop: user object and presentation method](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/d000672a-63ae-4d52-9dd0-35c40e05a6ad/workshop-user-object-and-presentation-method)
+91. [Workshop: Product catalog (array of objects)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/a6a39bc8-5520-4b1e-90d8-5d049426427f/workshop-product-catalog-array-of-objects)
 
