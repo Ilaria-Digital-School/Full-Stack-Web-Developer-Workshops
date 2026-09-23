@@ -97,3 +97,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [89. Workshop: filtering and transforming a list of products](89-workshop-filtering-and-transforming-a-list-of-products/)
 - [90. Workshop: user object and presentation method](90-workshop-user-object-and-presentation-method/)
 - [91. Workshop: Product catalog (array of objects)](91-workshop-product-catalog-array-of-objects/)
+- [92. Workshop: selecting an element and changing its text](92-workshop-selecting-an-element-and-changing-its-text/)
+- [93. Workshop: Colorize paragraphs with ClassList](93-workshop-colorize-paragraphs-with-classlist/)
