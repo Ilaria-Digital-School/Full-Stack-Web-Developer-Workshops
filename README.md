@@ -99,3 +99,4 @@ Become a Full Stack Web Developer and master the development to create, manage a
 - [91. Workshop: Product catalog (array of objects)](91-workshop-product-catalog-array-of-objects/)
 - [92. Workshop: selecting an element and changing its text](92-workshop-selecting-an-element-and-changing-its-text/)
 - [93. Workshop: Colorize paragraphs with ClassList](93-workshop-colorize-paragraphs-with-classlist/)
+- [94. Workshop: dynamically generating an HTML list](94-workshop-dynamically-generating-an-html-list/)

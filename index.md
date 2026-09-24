@@ -105,4 +105,5 @@ Become a Full Stack Web Developer and master the development to create, manage a
 91. [Workshop: Product catalog (array of objects)](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/a6a39bc8-5520-4b1e-90d8-5d049426427f/workshop-product-catalog-array-of-objects)
 92. [Workshop: selecting an element and changing its text](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/2e435d91-f94d-47f3-bc57-84b2cd5dfbd3/workshop-selecting-an-element-and-changing-its-text)
 93. [Workshop: Colorize paragraphs with ClassList](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/19f97c7b-54ed-4df8-a61c-8a3d4384a03c/workshop-colorize-paragraphs-with-classlist)
+94. [Workshop: dynamically generating an HTML list](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/9bc75d96-e9ac-43b0-a6a7-23f737b5bba7/98e071ad-d77f-4a6b-912d-911037084586/workshop-dynamically-generating-an-html-list)
 
