@@ -1,2 +1,0 @@
-<?php
-// Workshop: Nested lists

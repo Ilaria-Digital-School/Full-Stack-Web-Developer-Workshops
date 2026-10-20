@@ -1,2 +1,0 @@
-<?php
-// While - Count from 1 to N

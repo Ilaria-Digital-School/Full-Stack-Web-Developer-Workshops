@@ -1,2 +1,0 @@
-<?php
-// Workshop: basic commands (cd, ls, mkdir, touch)

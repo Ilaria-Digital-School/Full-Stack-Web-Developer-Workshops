@@ -1,2 +1,0 @@
-<?php
-// Lab: installing Git and setting up user.name/user.email

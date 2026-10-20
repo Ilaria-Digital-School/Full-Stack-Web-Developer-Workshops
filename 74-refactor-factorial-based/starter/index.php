@@ -1,2 +1,0 @@
-<?php
-// Refactor Factorial based

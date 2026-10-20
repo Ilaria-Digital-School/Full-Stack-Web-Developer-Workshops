@@ -1,1 +1,0 @@
-// Declare and assign variables

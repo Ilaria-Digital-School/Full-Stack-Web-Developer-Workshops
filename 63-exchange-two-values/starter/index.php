@@ -1,2 +1,0 @@
-<?php
-// Exchange two values

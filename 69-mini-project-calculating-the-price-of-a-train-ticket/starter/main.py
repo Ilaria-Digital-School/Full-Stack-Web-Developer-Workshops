@@ -1,1 +1,0 @@
-# Mini-project - Calculating the price of a train ticket

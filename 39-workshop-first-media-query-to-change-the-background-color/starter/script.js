@@ -1,1 +1,0 @@
-// Workshop: first media query to change the background color

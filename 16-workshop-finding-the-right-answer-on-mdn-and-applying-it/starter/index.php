@@ -1,2 +1,0 @@
-<?php
-// Workshop: finding the right answer on MDN and applying it

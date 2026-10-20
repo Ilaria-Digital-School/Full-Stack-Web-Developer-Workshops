@@ -1,1 +1,0 @@
-// Workshop: Colorize paragraphs with ClassList

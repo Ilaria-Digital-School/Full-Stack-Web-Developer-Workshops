@@ -1,2 +1,0 @@
-<?php
-// Workshop: go from 4 columns to 1 column depending on the screen size
