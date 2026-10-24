@@ -1,0 +1,1 @@
+# Intermediate mini-project: responsive portfolio home page

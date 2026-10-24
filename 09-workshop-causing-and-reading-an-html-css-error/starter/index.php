@@ -1,0 +1,2 @@
+<?php
+// Workshop: causing and reading an HTML/CSS error

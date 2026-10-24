@@ -1,0 +1,2 @@
+<?php
+// Reduced price choice

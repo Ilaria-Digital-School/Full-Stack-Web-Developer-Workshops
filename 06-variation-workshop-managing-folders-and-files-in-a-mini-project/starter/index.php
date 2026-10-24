@@ -1,0 +1,2 @@
+<?php
+// Variation workshop: managing folders and files in a mini-project
