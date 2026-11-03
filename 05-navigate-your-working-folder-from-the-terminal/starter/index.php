@@ -1,0 +1,2 @@
+<?php
+// Navigate your working folder from the terminal
