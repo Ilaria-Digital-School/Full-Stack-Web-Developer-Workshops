@@ -1,0 +1,2 @@
+<?php
+// Rewrite ambiguous instructions so they leave no doubt

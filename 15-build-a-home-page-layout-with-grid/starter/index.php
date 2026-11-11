@@ -1,0 +1,2 @@
+<?php
+// Build a home page layout with Grid
