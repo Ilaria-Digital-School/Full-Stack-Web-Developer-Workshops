@@ -1,0 +1,5 @@
+# While - Count from 1 to N
+
+THEORETICAL RECAP A 'while' loop repeats a block of instructions as long as a condition remains true. Its structure is simple: you define a starting point (an initialization), a condition that is tested before each iteration, and an update inside the loop that eventually makes the condition false. If the update is missing or wrong, the condition never becomes false and you get an infinite loop, the single most common mistake with 'while'. Mental model: imagine a counter starting at 1. Before each repetition, you ask a question: 'Is my counter still less than or equal to N?' If yes, you execute the body (for example, display the counter), then increment it by 1. If no, you stop. The loop is a controlled repetition governed entirely by the condition. Mini example (pseudocode): i = 1 while i
+
+[View the full workshop](https://www.ilaria-academy.com/nextjob/full-stack-web-developer/en/a83c67c7-88c8-45e4-afa1-a27abbc69b14/77c53658-ac24-4173-bb82-01838835eb5b/while-count-from-1-to-n)
